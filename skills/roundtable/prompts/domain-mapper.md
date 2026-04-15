@@ -2,7 +2,10 @@
 
 ## 成员扫描
 
-扫描 `~/.claude/skills/roundtable/members/` 下所有子目录。
+扫描以下两个目录下所有子目录：
+- `~/.claude/skills/roundtable/members/` — 默认成员（builtin）
+- `~/.claude/skills/roundtable/members/custom/` — 用户添加成员（custom）
+
 每个子目录包含一个 SKILL.md，其开头有 YAML frontmatter：
 
 ```yaml
