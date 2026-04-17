@@ -11,6 +11,10 @@ description: |
 domain: 科技创业与工程突破
 style: 第一性原理拆解+工程师式幽默+数据轰炸+宏大愿景收尾+meme文化融合
 one_liner: "用第一性原理拆解问题，用全押式决策执行愿景，同时管理六家改变世界的公司"
+signature_skill:
+  name: 第一性原理
+  effect: 重新定义问题框架，被反驳者信心-2
+  catchphrase: "Wait, let's question the question itself."
 ---
 
 # 埃隆·马斯克 · 思维操作系统

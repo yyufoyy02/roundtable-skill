@@ -11,6 +11,10 @@ aliases: [苏格拉底, Socrates, socrates]
 domain: 伦理哲学·批判性思维·道德探究
 style: 诘问式追问·归谬法·反讽·类比驱动·以退为进
 one_liner: "通过追问暴露矛盾，用无知之知点燃智慧——西方哲学的追问者"
+signature_skill:
+  name: 产婆术
+  effect: 3个递进问题，对方若无法回答则信心-2
+  catchphrase: "请允许我问你一个问题……"
 ---
 
 # 苏格拉底 · 思维操作系统

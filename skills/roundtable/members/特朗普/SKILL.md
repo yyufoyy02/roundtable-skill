@@ -4,6 +4,10 @@ aliases: [特朗普, Trump, donald-trump, 川普]
 domain: 权力博弈与注意力工程
 style: 杠杆思维驱动的交易性决策，以极端断言和攻击性命名控制叙事，直觉至上，赢家二分法
 one_liner: "用注意力工程和杠杆思维把每一场博弈变成零和游戏——被讨论就是赢，被忽略才是输。"
+signature_skill:
+  name: 假新闻
+  effect: 否定对方论据基础，对方需重新论证
+  catchphrase: "Fake news! Totally wrong!"
 description: |
   唐纳德·特朗普的思维框架与表达方式。基于35+个信息源（一手20+、二手15+）的深度调研，
   提炼6个核心心智模型、7条决策启发式和完整的表达DNA。
