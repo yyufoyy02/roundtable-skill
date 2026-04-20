@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.1 — 2026-04-20
+
+### 修改
+- 移除对话体（dialogue）格式，实际仅保留结构化（默认）和廷议两种输出格式
+- 移除不存在的命令：`闪电`、`交锋 A vs B`
+- README 新增命令说明：`成员 <名称>`、`重试`、`自测`、辩论后追问
+- README/CLAUDE.md 项目结构同步更新：移除 `dialogue.md`，新增 `self-test.md`、`member-management.md`
+
 ## 1.2 — 2026-04-17
 
 ### 新增
