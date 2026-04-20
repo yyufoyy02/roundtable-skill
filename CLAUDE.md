@@ -31,7 +31,7 @@ skills/roundtable/
 └── members/              ← 成员资料库
     ├── {name}/SKILL.md   ← 成员思维模型（YAML frontmatter + 详细内容）
     └── custom/           ← 用户自定义成员（git 忽略）
-report/                   ← 会议记录存档（git 忽略），文件命名：{论题}_{YYYYMMDD}.md
+report/                   ← 会议记录存档（git 忽略），文件命名：{辩论副标题}_{YYYYMMDD}.md，辩论结束必须用 Write 工具实际写入
 ```
 
 **SKILL.md 是核心**：它定义了主持人角色、命令解析规则（菜单/加入/辩论/追问/介入）、辩论编排流程（Step 1-4）。所有 prompts/ 文件是按需加载的子模块。
