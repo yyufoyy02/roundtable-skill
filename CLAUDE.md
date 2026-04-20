@@ -27,7 +27,7 @@ skills/roundtable/
 │   ├── skill-system.md   ← 游戏化系统（绝招、随机事件、彩蛋）
 │   ├── member-management.md ← 成员管理（加入/移除/查看/重试）
 │   ├── self-test.md      ← 系统自测
-│   └── formats/          ← 输出格式模板（结构化 + 廷议）
+│   └── formats/          ← 输出格式模板（结构化 + 投票制辩论）
 └── members/              ← 成员资料库
     ├── {name}/SKILL.md   ← 成员思维模型（YAML frontmatter + 详细内容）
     └── custom/           ← 用户自定义成员（git 忽略）

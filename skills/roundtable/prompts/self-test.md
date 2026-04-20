@@ -16,7 +16,7 @@
 ### A1 核心文件存在
 
 - 用 Glob 扫描 `prompts/*.md` 和 `prompts/formats/*.md`
-- 预期 7 个文件全部存在：`domain-mapper.md`、`debate-protocol.md`、`skill-system.md`、`member-management.md`、`shared.md`、`structured.md`、`court.md`（不含 self-test.md 本身，自测工具不属于核心辩论文件）
+- 预期 7 个文件全部存在：`domain-mapper.md`、`debate-protocol.md`、`skill-system.md`、`member-management.md`、`shared.md`、`structured.md`、`vote.md`（不含 self-test.md 本身，自测工具不属于核心辩论文件）
 - 记录缺失文件名
 
 ### A2 成员 SKILL.md 存在
@@ -85,7 +85,7 @@
   - `prompts/self-test.md`
   - `prompts/formats/shared.md`
   - `prompts/formats/structured.md`
-  - `prompts/formats/court.md`
+  - `prompts/formats/vote.md`
 - 用 Bash `diff` 逐个对比
 - 记录内容不一致的文件
 
